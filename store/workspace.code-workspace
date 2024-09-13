@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\tonka"
+		},
+		{
+			"path": "..\\Новая папка"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tonka"
+	}
+}
